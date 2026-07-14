@@ -1,4 +1,5 @@
 End-to-End AWS Web Application
+![Project Architecture](architecture.png)
 What this project is:
 A web application hosted on AWS that I built to learn cloud engineering.
 
