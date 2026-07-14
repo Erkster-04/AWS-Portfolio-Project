@@ -11,3 +11,6 @@ Scripting: Python and Bash.
 
 How it works:
 I created a pipeline that automatically updates my website every time I make a code change.
+
+Automation Scripts
+This repository includes a Bash script (deploy_check.sh) used to automate the health verification of cloud infrastructure components like S3, RDS, and EC2.
